@@ -1,0 +1,52 @@
+
+[00:19:48]UserPath: C:\Users\Martin\Documents\My Games\AoW3\
+[00:19:48]Working Directory: F:\Steam\steamapps\common\AoW3\
+[00:19:48]Network Adapters:
+[00:19:48]Trådløs nettverkstilkobling 7 - IP:169.254.255.197 - SubMask:0.0.0.0
+[00:19:48]Trådløs nettverkstilkobling 6 - IP:10.0.0.94 - SubMask:255.255.255.0
+[00:19:48]ListUserProfile Module started
+[00:19:48]STATE [ListProfiles]
+[00:19:48]Steam log callback set
+[00:19:48]STATE [LoadProfiles]
+[00:19:48]STATE [Ready]
+[00:19:48][LANGUAGE]	Parsing file "LANGUAGE\TEXT\TITLE\LAUNCHER.8LD" in language "ENGLISH".
+[00:19:48][LANGUAGE]	Parsing file "LANGUAGE\TEXT\TITLE\NET.8LD" in language "ENGLISH".
+[00:19:48]STATE [CheckDownloadableUserContent]
+[00:19:48][Steam] RetrieveSubscribedFiles
+[00:19:48]
+[00:19:48][Steam] CreateSubscribedFileQuery: 1
+[00:19:48]
+[00:19:48][Steam] CreateSubscribedFileQuery - CreateQueryUserUGCRequest
+[00:19:48]
+[00:19:48][Steam] CreateSubscribedFileQuery - SendQueryUGCRequest
+[00:19:48]
+[00:19:48][Steam] OnSubcribedFilesRetrieved
+[00:19:48]
+[00:19:48][Steam] OnSubcribedFilesRetrieved result: 1
+[00:19:48]
+[00:19:48][Steam] OnSubcribedFilesRetrieved init SteamUGCDetails
+[00:19:48]
+[00:19:48][Steam] OnSubcribedFilesRetrieved num results returned: 0
+[00:19:48]
+[00:19:48][Steam] OnSubcribedFilesRetrieved All Results Processed
+[00:19:48]
+[00:19:48][STEAM] RetrieveSubscribedFilesCallback
+[00:19:48]Subscribed files: 0
+[00:19:48]STATE [UnpackUserContent]
+[00:19:48]STATE [CreateArchives]
+[00:19:48]STATE [LoadUserContent]
+[00:19:48]STATE [Ready]
+[00:19:48][LOBBY_CLIENT]Connecting to server...
+[00:19:50]STATE [Play]
+[00:19:50][INFO][LobbyClient][CON1]Connected (54.229.188.129:48035)
+[00:19:50][LOBBY_CLIENT]Connected to server
+[00:19:51]LC_MSG: 1 (res:0) - (state: 9)
+[00:19:51]LC_MSG: 17 (res:0) - (state: 9)
+[00:19:51]Storing settings
+[00:19:51]Saving profile..
+[00:19:51]STATE [Launch]
+[00:19:51]Profile saved..
+[00:19:51]OpenProcess: F:\Steam\steamapps\common\AoW3\AoW3.exe -profile "Potetgul" -no_registrationCreate process succeeded..
+[00:19:51]STATE [Exit]
+[00:19:51][INFO][LobbyClient][CON1]Disconnected (54.229.188.129:48035)
+[00:19:51]

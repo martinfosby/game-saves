@@ -1,0 +1,73 @@
+
+[00:09:46]UserPath: C:\Users\Martin\Documents\My Games\AoW3\
+[00:09:46]Working Directory: F:\Steam\steamapps\common\AoW3\
+[00:09:46]Network Adapters:
+[00:09:46]Trådløs nettverkstilkobling 7 - IP:169.254.255.197 - SubMask:0.0.0.0
+[00:09:46]Trådløs nettverkstilkobling 6 - IP:10.0.0.94 - SubMask:255.255.255.0
+[00:09:46]ListUserProfile Module started
+[00:09:46]STATE [ListProfiles]
+[00:09:46]Steam log callback set
+[00:09:46]STATE [LoadProfiles]
+[00:09:46]STATE [Ready]
+[00:09:46][LANGUAGE]	Parsing file "LANGUAGE\TEXT\TITLE\LAUNCHER.8LD" in language "ENGLISH".
+[00:09:46][LANGUAGE]	Parsing file "LANGUAGE\TEXT\TITLE\NET.8LD" in language "ENGLISH".
+[00:09:46]STATE [CheckDownloadableUserContent]
+[00:09:46][Steam] RetrieveSubscribedFiles
+[00:09:46]
+[00:09:46][Steam] CreateSubscribedFileQuery: 1
+[00:09:46]
+[00:09:46][Steam] CreateSubscribedFileQuery - CreateQueryUserUGCRequest
+[00:09:46]
+[00:09:46][Steam] CreateSubscribedFileQuery - SendQueryUGCRequest
+[00:09:46]
+[00:09:46][Steam] OnSubcribedFilesRetrieved
+[00:09:46]
+[00:09:46][Steam] OnSubcribedFilesRetrieved result: 1
+[00:09:46]
+[00:09:46][Steam] OnSubcribedFilesRetrieved init SteamUGCDetails
+[00:09:46]
+[00:09:46][Steam] OnSubcribedFilesRetrieved num results returned: 0
+[00:09:46]
+[00:09:46][Steam] OnSubcribedFilesRetrieved All Results Processed
+[00:09:46]
+[00:09:46][STEAM] RetrieveSubscribedFilesCallback
+[00:09:46]Subscribed files: 0
+[00:09:46]STATE [UnpackUserContent]
+[00:09:46]STATE [CreateArchives]
+[00:09:46]STATE [LoadUserContent]
+[00:09:46]STATE [Ready]
+[00:09:46][LOBBY_CLIENT]Connecting to server...
+[00:09:53]STATE [CreateAccount]
+[00:09:53][INFO][LobbyClient][CON1]Connected (54.229.188.129:48035)
+[00:09:53][LOBBY_CLIENT]Connected to server
+[00:09:53]LC_MSG: 1 (res:0) - (state: 12)
+[00:09:53]LC_MSG: 15 (res:0) - (state: 12)
+[00:10:44]STATE [Ready]
+[00:10:44]STATE [Play]
+[00:13:08]LC_MSG: 17 (res:0) - (state: 9)
+[00:13:09]STATE [PlayOffline]
+[00:13:09]STATE [AccountSettings]
+[00:13:14]AS-STATE [Authenticate]
+[00:13:14]LC_MSG: 17 (res:0) - (state: 13)
+[00:13:15]AS-STATE [ConnectSteamAccount]
+[00:13:15]AS-STATE [LinkSteamAccount]
+[00:13:24]LC_MSG: 28 (res:0) - (state: 13)
+[00:13:24]AS-STATE [UpdateSteamProducts]
+[00:13:24]Updating steam products..
+[00:13:24]LC_MSG: 30 (res:0) - (state: 13)
+[00:13:25]AS-STATE [Refresh]
+[00:13:25]LC_MSG: 17 (res:0) - (state: 13)
+[00:13:26]AS-STATE [Input]
+[00:13:26]AS-STATE [Input]
+[00:14:10]AS-STATE [Register]
+[00:14:10]STATE [Ready]
+[00:15:00]STATE [Play]
+[00:15:02]LC_MSG: 17 (res:0) - (state: 9)
+[00:15:03]Storing settings
+[00:15:03]Saving profile..
+[00:15:03]STATE [Launch]
+[00:15:03]Profile saved..
+[00:15:03]OpenProcess: F:\Steam\steamapps\common\AoW3\AoW3.exe -profile "Potetgul" -no_registrationCreate process succeeded..
+[00:15:03]STATE [Exit]
+[00:15:03][INFO][LobbyClient][CON1]Disconnected (54.229.188.129:48035)
+[00:15:03]

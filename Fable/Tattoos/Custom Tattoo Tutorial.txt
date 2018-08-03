@@ -1,0 +1,29 @@
+
+HOW TO CREATE YOUR OWN CUSTOM TATTOOS.
+
+Think you can do a better job than the finest skin artists in Albion? Want to
+customise your Hero down to his very flesh? Here's how to do it.
+
+In the Tattoos folder (found in 'My Documents\My Games\Fable') you'll see a folder
+named after your user profile. Inside you'll find a bitmap (.bmp file) for each of 
+the tattoo types you can customise:
+
+arms.bmp
+back.bmp
+chest.bmp
+face.bmp
+legs.bmp
+
+Open the tattoo type you want to customise in an image editing program such as
+Microsoft Paint. Once you have edited the image, save the result.
+
+Next time you pay a visit to a Tattooist in the game, your customised tattoo will
+be available for application in the same way as those found on Tattoo Cards.
+
+Please note that customised tattoos will only become available in game once they
+have been altered.
+
+Should you ever need to revert back to the blank tattoo image, you will find the
+originals in the 'Data\Tattoos' folder, which is in your Fable installation
+folder. Simply copy the bitmap file over the custom tattoo you want to replace
+(removing the "_base" part of the filename).

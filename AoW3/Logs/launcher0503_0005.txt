@@ -1,0 +1,46 @@
+
+[00:05:10]UserPath: C:\Users\Martin\Documents\My Games\AoW3\
+[00:05:10]Working Directory: F:\Steam\steamapps\common\AoW3\
+[00:05:10]Network Adapters:
+[00:05:10]Trådløs nettverkstilkobling 7 - IP:169.254.255.197 - SubMask:0.0.0.0
+[00:05:10]Trådløs nettverkstilkobling 6 - IP:10.0.0.94 - SubMask:255.255.255.0
+[00:05:10]ListUserProfile Module started
+[00:05:10]STATE [ListProfiles]
+[00:05:10]Steam log callback set
+[00:05:10]STATE [LoadProfiles]
+[00:05:10]STATE [Ready]
+[00:05:10][LANGUAGE]	Parsing file "LANGUAGE\TEXT\TITLE\LAUNCHER.8LD" in language "ENGLISH".
+[00:05:10][LANGUAGE]	Parsing file "LANGUAGE\TEXT\TITLE\NET.8LD" in language "ENGLISH".
+[00:05:10]STATE [CheckDownloadableUserContent]
+[00:05:10][Steam] RetrieveSubscribedFiles
+[00:05:10]
+[00:05:10][Steam] CreateSubscribedFileQuery: 1
+[00:05:10]
+[00:05:10][Steam] CreateSubscribedFileQuery - CreateQueryUserUGCRequest
+[00:05:10]
+[00:05:10][Steam] CreateSubscribedFileQuery - SendQueryUGCRequest
+[00:05:10]
+[00:05:10][Steam] OnSubcribedFilesRetrieved
+[00:05:12]
+[00:05:12][Steam] OnSubcribedFilesRetrieved result: 1
+[00:05:12]
+[00:05:12][Steam] OnSubcribedFilesRetrieved init SteamUGCDetails
+[00:05:12]
+[00:05:12][Steam] OnSubcribedFilesRetrieved num results returned: 0
+[00:05:12]
+[00:05:12][Steam] OnSubcribedFilesRetrieved All Results Processed
+[00:05:12]
+[00:05:12][STEAM] RetrieveSubscribedFilesCallback
+[00:05:12]Subscribed files: 0
+[00:05:12]STATE [UnpackUserContent]
+[00:05:12]STATE [CreateArchives]
+[00:05:12]STATE [LoadUserContent]
+[00:05:12]STATE [Ready]
+[00:05:12]STATE [Ready]
+[00:06:59]STATE [Play]
+[00:06:59]Storing settings
+[00:07:09]STATE [Play]
+[00:07:09]Profile saved..
+[00:07:09]OpenProcess: F:\Steam\steamapps\common\AoW3\AoW3.exe -profile "GUEST" -offlineCreate process succeeded..
+[00:07:10]STATE [Exit]
+[00:07:10]
